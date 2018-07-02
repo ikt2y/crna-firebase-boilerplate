@@ -1,6 +1,9 @@
 # CRNA-FIREBASE-BOILERPLATE
 > Expo + Redux + Firebase Boilerplate
 
+## Screen Shot(GIF)
+![](https://i.gyazo.com/1e63df67aeb355821e316a742572bd6b.gif)
+
 ## FIREBASE SETUP
 
 1. Create `.env` file
